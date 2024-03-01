@@ -6,7 +6,7 @@
 <h4 align="center">DEDSEC_PALAMAN is a Linux-based tool that can inject stealthy malicious code into a legitimate Python code file.</h4>
 
 ## DESCRIPTION
-DEDSEC_PALAMAN can inject fast and efficient malicious code into legitimate Python scripts without the need for external modules. This allows it to covertly capture sensitive user information such as browser-saved passwords, browsing history, extensions, downloads, bookmarks, cookies, Host IP address, host username. The injected payload operates stealthily in the background, avoiding detection.
+DEDSEC_PALAMAN can inject fast and efficient malicious code into legitimate Python scripts without requiring root privileges to dump information. This allows it to covertly capture sensitive user data, such as browser-saved passwords, browsing history, extensions, downloads, bookmarks, cookies, Host IP address, and username. The injected payload operates stealthily in the background, avoiding detection.
 
 <h3 align="center"> SUPPORTED SOFTWARE</h3>
 <div align="center">
