@@ -11,20 +11,20 @@ DEDSEC_PALAMAN can inject fast and efficient malicious code into legitimate Pyth
 <h3 align="center"> SUPPORTED SOFTWARE</h3>
 <div align="center">
   
-| Browser            | Password | Cookie | Bookmark | History |
-|:-------------------|:--------:|:------:|:--------:|:-------:|
-| Google Chrome      |    ✅     |   ✅    |    ✅     |    ✅    |
-| Google Chrome Beta |    ✅     |   ✅    |    ✅     |    ✅    |
-| Chromium           |    ✅     |   ✅    |    ✅     |    ✅    |
-| Microsoft Edge Dev |    ✅     |   ✅    |    ✅     |    ✅    |
-| Brave              |    ✅     |   ✅    |    ✅     |    ✅    |
-| Opera              |    ✅     |   ✅    |    ✅     |    ✅    |
-| Vivaldi            |    ✅     |   ✅    |    ✅     |    ✅    |
-| Firefox            |    ✅     |   ✅    |    ✅     |    ✅    |
-| Firefox Beta       |    ✅     |   ✅    |    ✅     |    ✅    |
-| Firefox Dev        |    ✅     |   ✅    |    ✅     |    ✅    |
-| Firefox ESR        |    ✅     |   ✅    |    ✅     |    ✅    |
-| Firefox Nightly    |    ✅     |   ✅    |    ✅     |    ✅    |
+| Browser            | 
+|:-------------------|
+| Google Chrome      | 
+| Google Chrome Beta | 
+| Chromium           |   
+| Microsoft Edge Dev | 
+| Brave              | 
+| Opera              |
+| Vivaldi            |
+| Firefox            |
+| Firefox Beta       |
+| Firefox Dev        |
+| Firefox ESR        |
+| Firefox Nightly    |
 
 </div>
 
