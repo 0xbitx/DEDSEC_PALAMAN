@@ -28,7 +28,6 @@ DEDSEC_PALAMAN can inject fast and efficient malicious code into legitimate Pyth
 
 </div>
 
-
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_PALAMAN.git
     * cd DEDSEC_PALAMAN
